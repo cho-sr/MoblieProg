@@ -20,5 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Ch6_View"
-include(":app")
- 
+include(":app",":Ch6_View.app")
