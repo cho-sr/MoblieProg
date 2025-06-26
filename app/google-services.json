@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "162645780773",
+    "project_id": "lovemapapp-176e8",
+    "storage_bucket": "lovemapapp-176e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162645780773:android:8b41f8f4e9b39b5e4352cc",
+        "android_client_info": {
+          "package_name": "com.example.afinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162645780773-fo4q4m4avgvg4db1tk7fgo8oqblm0qcn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.afinal",
+            "certificate_hash": "bb82680382fdee2e4f92acc2d5e49d2dce32dc08"
+          }
+        },
+        {
+          "client_id": "162645780773-degvvadjru05ebpl0ltpk8pgbfpjge4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM7MGulobsaalgNd3qse-EpQSHOVo0Zuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162645780773-degvvadjru05ebpl0ltpk8pgbfpjge4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
